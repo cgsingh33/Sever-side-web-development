@@ -1,0 +1,12 @@
+{
+    "name": "server-side-development",
+    "version": "1.0.0",
+    "description": "Course exercises",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index"
+    },
+    "author": "Chandragupta Singh",
+    "license": "ISC"
+}
